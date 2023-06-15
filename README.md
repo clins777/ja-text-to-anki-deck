@@ -21,6 +21,13 @@ A;「B」(C)
 - B: the reading in hiragana
 - C: the meaning in english
 
+## How To Run It
+
+```
+npm install
+node index.js
+```
+
 ## Technologies Used
 
 - node.js [https://nodejs.org/en](https://nodejs.org)
